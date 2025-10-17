@@ -26,7 +26,7 @@ Illustrates how all components are connected.
 - [🎥 Watch Video ](disability-selection.mp4)  
 
 ### 📷 Device Sketch  
-🖼 [View Image](device-sketch.jpg)  
+🖼 [View Image](device-sketch.png)  
 An early conceptual sketch of the wearable robotic device design.
 
 ### 📄 Proposal  
@@ -36,6 +36,9 @@ Includes detailed system architecture, objectives, and implementation plan.
 ### 🎬 Project Overview Video  
 🎞 [Watch Video](project-overview.mp4)  
 A complete overview video explaining the concept, design, and functionality of the system.
+
+### 🎬 Project Defence Presentation Slides   
+🎞 (https://www.canva.com/design/DAGwwStF2fg/c1ddKkLbOcMcR_Od0FajzA/view?utm_content=DAGwwStF2fg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h00ee4a995e) 
 
 ---
 
