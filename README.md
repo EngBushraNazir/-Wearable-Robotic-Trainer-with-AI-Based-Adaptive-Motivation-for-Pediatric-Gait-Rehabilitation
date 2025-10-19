@@ -37,7 +37,7 @@ Includes detailed system architecture, objectives, and implementation plan.
 🎞 [Watch Video](project-overview.mp4)  
 A complete overview video explaining the concept, design, and functionality of the system.
 
-### 🎬 Project Defence Presentation Slides   
+### 🎬 Project Defense Presentation Slides   
 🎞 (https://www.canva.com/design/DAGwwStF2fg/c1ddKkLbOcMcR_Od0FajzA/view?utm_content=DAGwwStF2fg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h00ee4a995e) 
 
 ---
