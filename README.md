@@ -1,4 +1,4 @@
-#Wearable-Robotic-Trainer-with-AI-Based-Adaptive-Motivation-for-Pediatric-Gait-Rehabilitation
+##Wearable-Robotic-Trainer-with-AI-Based-Adaptive-Motivation-for-Pediatric-Gait-Rehabilitation
 **Bachelor of Electrical Engineering – My Final Year Design Project**  
 
 ---
@@ -38,7 +38,7 @@ Includes detailed system architecture, objectives, and implementation plan.
 A complete overview video explaining the concept, design, and functionality of the system.
 
 ### 🎬 Project Defense Presentation Slides   
-🎞 (https://www.canva.com/design/DAGwwStF2fg/c1ddKkLbOcMcR_Od0FajzA/view?utm_content=DAGwwStF2fg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h00ee4a995e) 
+🎞 [View on Canva](https://www.canva.com/design/DAGwwStF2fg/c1ddKkLbOcMcR_Od0FajzA/view?utm_content=DAGwwStF2fg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h00ee4a995e) 
 
 ---
 
