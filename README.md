@@ -42,6 +42,17 @@ A complete overview video explaining the concept, design, and functionality of t
 
 ---
 
+UPDATE 19/1/2026
+
+### 🔹 Hardware & Software Progress Presentation
+[View on Canva](https://www.canva.com/design/DAGwwStF2fg/c1ddKkLbOcMcR_Od0FajzA/view)
+
+### 🔹 Complete System Architecture
+🖼 [View Image](System-Architecture.png) 
+
+
+
+
 *(This repository documents the ongoing development and updates of my final-year project.)*
 
 
