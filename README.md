@@ -40,7 +40,7 @@ A complete overview video explaining the concept, design, and functionality of t
 ### 🎬 Project Defense Presentation Slides   
 🎞 [View on Canva](https://www.canva.com/design/DAGwwStF2fg/c1ddKkLbOcMcR_Od0FajzA/view?utm_content=DAGwwStF2fg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h00ee4a995e) 
 
----
+-----------------------------------------------------------------------------------------------
 
 UPDATE 19/1/2026
 
@@ -51,8 +51,58 @@ UPDATE 19/1/2026
 🖼 [View Image](System-Architecture.png) 
 
 
+----------------------------------------------------------------------------------------------
 
+##  FINAL UPDATE — 19/01/2026
 
-*(This repository documents the ongoing development and updates of my final-year project.)*
+Following the successful completion of the project, the repository has been updated with the final implementation, source code, testing materials, and supporting documentation.
+
+### 📘 Final Thesis
+
+📄 [View Thesis](FYDP_Thesis.pdf)
+
+The complete graduation thesis including methodology, implementation details, validation procedures, and final results.
+
+### 📊 Node-RED Dashboard
+
+📄 [Open Node-RED Flow](flows.json)
+
+Complete therapist dashboard implementation including monitoring, control, and session logging functionalities.
+
+### 🧠 AI Motivational System
+
+The final AI motivational pipeline source code:
+
+* `capture_two_images.py`
+* `analyze_images.py`
+* `visual_generator.py`
+
+### 🤖 Embedded Control System
+
+Source code for the wearable robotic trainer control system:
+
+* `Robot.ino`
+
+### 🏗 Final System Architecture
+
+🖼 [View System Architecture](System-Architecture.png)
+
+Final integrated hardware and software architecture of the complete rehabilitation system.
+
+### 📈 Final Progress Presentation
+
+🎞 [View on Canva](https://canva.link/fcr3cyjkh7j1uhy)
+
+Final hardware and software implementation progress presentation.
+
+### 🧪 Testing & Validation Results
+
+🎞 [View on Canva](https://canva.link/punf2cz9vm863uq)
+
+Includes system validation procedures, performance evaluation, and experimental testing results.
+
+---
+
+*This repository now contains the final version of the project after successful completion and evaluation.*
 
 
